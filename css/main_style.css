@@ -1,0 +1,19 @@
+.navbar-nav li{
+	padding: 0px 20px;
+}
+.productTitle {
+	text-align: center;
+	margin: 20px 0px;
+}
+.productHeader{
+}
+
+.productInfo{
+	height: 600px;
+	background-color: green;
+}
+
+.productImage{
+	height: 600px;
+	background-color: blue;
+}
